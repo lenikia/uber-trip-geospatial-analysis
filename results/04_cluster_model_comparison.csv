@@ -1,0 +1,15 @@
+Cluster,Model,MAE,RMSE
+0,Seasonal Naive,1159.0,1330.01
+0,Day-of-Week Average,826.74,1069.13
+1,Seasonal Naive,91.86,104.02
+1,Day-of-Week Average,53.44,65.46
+2,Seasonal Naive,1113.43,1331.41
+2,Day-of-Week Average,1067.73,1255.3
+3,Seasonal Naive,86.29,108.52
+3,Day-of-Week Average,81.88,93.14
+4,Seasonal Naive,171.29,192.95
+4,Day-of-Week Average,63.92,78.73
+5,Seasonal Naive,30.14,39.07
+5,Day-of-Week Average,32.89,44.07
+6,Seasonal Naive,425.14,543.82
+6,Day-of-Week Average,350.74,409.81
