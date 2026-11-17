@@ -1,0 +1,22 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Large datasets
+data/*.csv
+data/*.parquet
+
+# Temporary files
+*.log
